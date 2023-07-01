@@ -1,0 +1,125 @@
+﻿Customer Name,Policy Expiry Date,Product Family,Product,Status,Agent,Bundled Policy?,Frequency of Contact,Mailer Sent Out?,Policy ID,Promotion Offered,Sourcing Channel,Days Until Exp Buckets,Date Param Plus 1 Q,Days Until Expiration Date,Income,Number of Late Payments,Number of Premiums Paid,Percent Premiums Paid in Cash or Credit,Policy Holder Age,Premium
+Jemima Dalling,4/17/2021,Personal,Health,Reassess,Adriena Bennett,Yes,Yearly,No,R1471,10 Percent,C,Next 15-30 days,4/1/2021 12:00:00 AM,16,184600,0,47,0.457745801,65,142109.52
+Armand Hamor,4/6/2021,Business,Professional Liability,Expiring,Adriena Bennett,Yes,Yearly,No,R0872,None,D,Next 5-15 days,4/1/2021 12:00:00 AM,5,47800,0,12,0.024086717,39,165067.38
+Paul Raggles,5/26/2021,Personal,Pet,Reassess,Adriena Bennett,Yes,Yearly,No,R0170,None,D,Next 30-60 days,4/1/2021 12:00:00 AM,55,23900,0,49,0.232198521,64,83215.38
+Deni Care,7/12/2021,Business,Professional Liability,Reassess,Adriena Bennett,Yes,Never,No,R0612,15 Percent,C,More than 60 days,4/1/2021 12:00:00 AM,102,163000,0,22,0.328104616,73,36181.42
+Tomaso Ambrosoli,4/2/2021,Business,Commercial Auto,Reassess,Adriena Bennett,Yes,Monthly,Yes,R1354,None,C,Next 5 days,4/1/2021 12:00:00 AM,1,122900,0,22,0.473571265,24,73428.35
+Laurice Guerin,4/4/2021,Business,General Liability,Reassess,Adriena Bennett,Yes,Never,No,R1432,None,D,Next 5 days,4/1/2021 12:00:00 AM,3,67400,0,10,0.111765214,62,8391.49
+Tyrone Pope,4/23/2021,Personal,Identity Theft Protection,Reassess,Adriena Bennett,Yes,Never,No,R1258,None,D,Next 15-30 days,4/1/2021 12:00:00 AM,22,127100,0,48,0.937195426,41,228337.71
+Quentin Espinet,5/9/2021,Property,Homeowners,Expiring,Adriena Bennett,Yes,Never,No,R0246,None,C,Next 30-60 days,4/1/2021 12:00:00 AM,38,178300,0,39,0.156517283,58,197798.55
+Staci Korfmann,4/12/2021,Vehicle,ATV,Reassess,Adriena Bennett,Yes,Yearly,Yes,R0582,5 Percent,C,Next 5-15 days,4/1/2021 12:00:00 AM,11,125500,12,35,0.627762552,77,14712.43
+Veda Bolan,4/3/2021,Personal,Life,Reassess,Adriena Bennett,Yes,Never,No,R0534,None,D,Next 5 days,4/1/2021 12:00:00 AM,2,138200,0,38,0.793412407,75,52496.15
+Waneta Wrathall,12/1/2021,Property,Home Warranty,Reassess,Adriena Bennett,Yes,Quarterly,No,R1402,None,D,More than 60 days,4/1/2021 12:00:00 AM,244,2400,3,16,0.924249242,62,58200.34
+Corabel Jakobsson,4/3/2021,Personal,Health,Expiring,Adriena Bennett,Yes,Quarterly,Yes,R0651,None,C,Next 5 days,4/1/2021 12:00:00 AM,2,76500,0,56,0.483184030,72,133407.89
+Sharyl Catherick,4/5/2021,Personal,Identity Theft Protection,Expiring,Adriena Bennett,Yes,Yearly,Yes,R0990,None,D,Next 5 days,4/1/2021 12:00:00 AM,4,93100,0,33,0.939901136,35,26791.63
+Hector Weavers,4/18/2021,Vehicle,Classic Car,Reassess,Adriena Bennett,No,Never,Yes,R1306,5 Percent,D,Next 15-30 days,4/1/2021 12:00:00 AM,17,68200,14,27,0.014423797,43,129185.35
+Pepita Grinyakin,4/11/2021,Vehicle,PWC,Reassess,Adriena Bennett,No,Monthly,No,R0486,None,D,Next 5-15 days,4/1/2021 12:00:00 AM,10,106200,7,56,0.364212649,57,61917.5
+Yolanthe Garahan,10/24/2021,Vehicle,Motorcycle,Reassess,Adriena Bennett,No,Yearly,Yes,R0208,None,C,More than 60 days,4/1/2021 12:00:00 AM,206,3900,11,33,0.256578548,50,17144.48
+Isaac Lucey,6/30/2021,Property,Renter,Reassess,Adriena Bennett,No,Quarterly,Yes,R1692,None,B,More than 60 days,4/1/2021 12:00:00 AM,90,163600,0,37,0.978394205,73,6860.19
+Pace Dunham,6/19/2021,Business,Workers' Compensation,Reassess,Adriena Bennett,No,Quarterly,No,R1066,10 Percent,D,More than 60 days,4/1/2021 12:00:00 AM,79,125600,0,53,0.305855098,30,120448.61
+Brnaba Ogbourne,4/2/2021,Vehicle,Golf Cart,Reassess,Adriena Bennett,No,Yearly,No,R1028,None,D,Next 5 days,4/1/2021 12:00:00 AM,1,40700,0,51,0.698428645,54,89866.99
+Frannie Burbidge,4/11/2021,Property,Homeowners,Reassess,Adriena Bennett,No,Monthly,Yes,R0052,5 Percent,D,Next 5-15 days,4/1/2021 12:00:00 AM,10,83500,0,30,0.124642926,24,4255.71
+Junie Commander,5/22/2021,Personal,Health,Enroll,Adriena Bennett,No,Never,Yes,R0438,None,D,Next 30-60 days,4/1/2021 12:00:00 AM,51,163400,0,9,0.581126858,75,173920.19
+Sofia Gerrelt,6/2/2021,Vehicle,Snowmobile,Reassess,Adriena Bennett,No,Yearly,No,R1810,None,C,More than 60 days,4/1/2021 12:00:00 AM,62,164500,0,14,0.857495937,65,87878.31
+Dorthea Gilardone,4/3/2021,Vehicle,ATV,Reassess,Adriena Bennett,No,Monthly,Yes,R1848,10 Percent,C,Next 5 days,4/1/2021 12:00:00 AM,2,106600,0,12,0.064741350,73,96573.31
+Hubert Gillatt,4/14/2021,Personal,Life,Expiring,Adriena Bennett,No,Quarterly,No,R1886,None,D,Next 5-15 days,4/1/2021 12:00:00 AM,13,27500,0,12,0.069591647,31,188006.38
+Masha Hannabuss,8/14/2021,Vehicle,ATV,Reassess,Adriena Bennett,Yes,Never,Yes,R1593,None,D,More than 60 days,4/1/2021 12:00:00 AM,135,37600,0,15,0.046046813,57,93837.91
+Mohandis Mallinar,6/25/2021,Property,Renter,Renewed,Adriena Bennett,Yes,Quarterly,No,R1843,None,D,More than 60 days,4/1/2021 12:00:00 AM,85,16800,0,47,0.845918193,77,11995.43
+Chase McCray,12/12/2021,Personal,Life,Reassess,Adriena Bennett,Yes,Monthly,No,R1637,None,D,More than 60 days,4/1/2021 12:00:00 AM,255,77000,11,22,0.123248692,79,55035.29
+Shelley Outlaw,11/23/2021,Vehicle,Motorcycle,Renewed,Adriena Bennett,Yes,Quarterly,No,R0867,5 Percent,D,More than 60 days,4/1/2021 12:00:00 AM,236,160400,15,31,0.934706941,37,165768.66
+Elsi Van Castele,9/11/2021,Business,Commercial Auto,Reassess,Adriena Bennett,Yes,Quarterly,No,R0529,None,C,More than 60 days,4/1/2021 12:00:00 AM,163,124200,0,53,0.377515648,31,70998.66
+Blithe Hibbart,7/9/2021,Vehicle,PWC,Expiring,Adriena Bennett,Yes,Quarterly,Yes,R1301,None,C,More than 60 days,4/1/2021 12:00:00 AM,99,42600,0,18,0.732151017,41,77785.94
+Dianemarie Kopman,8/13/2021,Personal,Pet,Reassess,Adriena Bennett,Yes,Quarterly,No,R1687,None,B,More than 60 days,4/1/2021 12:00:00 AM,134,179400,0,49,0.782161129,63,108046.13
+Jeremie MacNeilley,8/13/2021,Business,Commercial Auto,Reassess,Adriena Bennett,Yes,Monthly,Yes,R1349,None,B,More than 60 days,4/1/2021 12:00:00 AM,134,69400,0,42,0.356037890,50,20370.31
+Shandee Rehm,11/28/2021,Personal,Device,Renewed,Adriena Bennett,Yes,Yearly,No,R1253,None,C,More than 60 days,4/1/2021 12:00:00 AM,241,54100,15,21,0.206291249,48,52198.76
+Case Abrahamovitz,9/24/2021,Property,Homeowners,Renewed,Adriena Bennett,Yes,Quarterly,No,R1023,None,C,More than 60 days,4/1/2021 12:00:00 AM,176,136700,9,48,0.713109677,30,178937.73
+Devonna Mangenet,11/13/2021,Personal,Vision,Reassess,Adriena Bennett,Yes,Monthly,No,R0773,None,A,More than 60 days,4/1/2021 12:00:00 AM,226,108600,12,10,0.387377427,65,121975.84
+Dorise Featherstonehaugh,8/8/2021,Vehicle,Auto,Expiring,Adriena Bennett,Yes,Monthly,Yes,R0577,5 Percent,B,More than 60 days,4/1/2021 12:00:00 AM,129,50400,0,17,0.952412984,78,69055.95
+Patin Riveles,8/11/2021,Personal,Health,Reassess,Adriena Bennett,Yes,Monthly,No,R0165,None,D,More than 60 days,4/1/2021 12:00:00 AM,132,135000,0,38,0.800886887,41,24295.86
+Hedvige Coper,4/21/2021,Vehicle,Auto,Renewed,Adriena Bennett,Yes,Monthly,No,R0817,10 Percent,A,Next 15-30 days,4/1/2021 12:00:00 AM,20,103600,0,21,0.769874313,59,20898.31
+Thornton Hacquel,12/27/2021,Property,Homeowners,Renewed,Adriena Bennett,Yes,Yearly,No,R0985,10 Percent,C,More than 60 days,4/1/2021 12:00:00 AM,270,3700,1,21,0.553200722,59,175450.43
+Marika Denacamp,10/23/2021,Personal,Identity Theft Protection,Enroll,Adriena Bennett,Yes,Never,No,R0729,None,A,More than 60 days,4/1/2021 12:00:00 AM,205,178800,11,50,0.289212014,38,65352.8
+Grady Petchey,12/23/2021,Property,Home Warranty,Enroll,Adriena Bennett,No,Weekly,Yes,R0481,15 Percent,D,More than 60 days,4/1/2021 12:00:00 AM,266,143900,1,25,0.522532536,80,37176.12
+Wilden Kiff,7/3/2021,Vehicle,ATV,Renewed,Adriena Bennett,No,Weekly,No,R0241,None,A,More than 60 days,4/1/2021 12:00:00 AM,93,100700,0,11,0.674978635,57,189995.25
+Son Penman,6/1/2021,Personal,Device,Renewed,Adriena Bennett,No,Monthly,No,R1881,None,A,More than 60 days,4/1/2021 12:00:00 AM,61,193700,0,38,0.015023291,59,52591.15
+Olenolin De Micoli,6/17/2021,Vehicle,PWC,Reassess,Adriena Bennett,No,Never,No,R0203,None,A,More than 60 days,4/1/2021 12:00:00 AM,77,6700,0,45,0.567717570,45,41521.14
+Arte Hynard,4/10/2021,Personal,Pet,Reassess,Adriena Bennett,No,Quarterly,No,R1549,None,D,Next 5-15 days,4/1/2021 12:00:00 AM,9,67000,0,28,0.299853641,74,30228.9
+Bren Dutteridge,7/13/2021,Business,Commercial Auto,Reassess,Adriena Bennett,No,Never,No,R1397,None,E,More than 60 days,4/1/2021 12:00:00 AM,103,85700,0,35,0.892040659,56,19981.93
+Clarey Musk,7/18/2021,Personal,Dental,Reassess,Adriena Bennett,No,Monthly,No,R1805,None,D,More than 60 days,4/1/2021 12:00:00 AM,108,17000,0,11,0.011501509,57,109090.62
+Gusti Portis,4/8/2021,Personal,Pet,Reassess,Adriena Bennett,No,Weekly,No,R0433,5 Percent,D,Next 5-15 days,4/1/2021 12:00:00 AM,7,8500,0,45,0.160558355,33,26010.89
+Tibold Sweetzer,11/23/2021,Vehicle,Motorcycle,Renewed,Adriena Bennett,No,Yearly,No,R0047,None,E,More than 60 days,4/1/2021 12:00:00 AM,236,188700,2,24,0.530107865,44,8882.1
+Dalston Dunthorn,12/1/2021,Personal,Travel,Renewed,Adriena Bennett,No,Weekly,No,R1061,5 Percent,C,More than 60 days,4/1/2021 12:00:00 AM,244,56200,9,44,0.666264158,40,5279.03
+Conn Cicchitello,7/1/2021,Property,Condo,Renewed,Adriena Bennett,Yes,Yearly,No,R0260,None,C,More than 60 days,4/1/2021 12:00:00 AM,91,107800,0,50,0.790888620,26,33577.54
+Rafe Fothergill,11/5/2021,Vehicle,RV,Expiring,Adriena Bennett,Yes,Quarterly,No,R0928,None,E,More than 60 days,4/1/2021 12:00:00 AM,218,66200,3,21,0.176727482,61,97873.49
+Zebadiah Febre,12/19/2021,Business,Commercial Auto,Enroll,Adriena Bennett,Yes,Yearly,Yes,R0649,None,D,More than 60 days,4/1/2021 12:00:00 AM,262,100500,0,10,0.770402469,54,74492.62
+Reta Roberti,9/6/2021,Business,Workers' Compensation,Expiring,Adriena Bennett,Yes,Quarterly,Yes,R1649,5 Percent,B,More than 60 days,4/1/2021 12:00:00 AM,158,32900,0,9,0.984775443,62,29357.95
+Valaria Rankling,8/4/2021,Property,Condo,Renewed,Adriena Bennett,Yes,Quarterly,No,R0108,10 Percent,C,More than 60 days,4/1/2021 12:00:00 AM,125,19000,0,7,0.029547568,80,2545.14
+Kelci Bear,6/23/2021,Personal,Dental,Enroll,Adriena Bennett,Yes,Monthly,No,R0735,None,C,More than 60 days,4/1/2021 12:00:00 AM,83,186400,0,6,0.350699953,43,166793.99
+Karlik Hanton,12/26/2021,Personal,Life,Renewed,Adriena Bennett,Yes,Yearly,No,R1511,None,D,More than 60 days,4/1/2021 12:00:00 AM,269,11600,4,10,0.202981121,58,122967.08
+Caroline Marples,11/30/2021,Business,Commercial Auto,Renewed,Adriena Bennett,Yes,Yearly,Yes,R1469,None,A,More than 60 days,4/1/2021 12:00:00 AM,243,147900,0,30,0.688943735,20,37053.33
+Tiffanie Kiwitz,11/3/2021,Business,Professional Liability,Renewed,Adriena Bennett,Yes,Never,No,R0318,None,C,More than 60 days,4/1/2021 12:00:00 AM,216,83800,0,14,0.741496687,36,65716.61
+Robinia Esome,7/20/2021,Business,Business Owners Policy,Enroll,Adriena Bennett,Yes,Quarterly,No,R1508,None,D,More than 60 days,4/1/2021 12:00:00 AM,110,95100,0,17,0.516674140,33,36981.17
+Darb Grasner,8/15/2021,Vehicle,ATV,Reassess,Adriena Bennett,Yes,Yearly,No,R0289,None,D,More than 60 days,4/1/2021 12:00:00 AM,136,180600,0,46,0.798444181,35,132780.45
+Odessa Vandenhoff,9/25/2021,Business,Professional Liability,Renewed,Adriena Bennett,Yes,Yearly,Yes,R1958,None,C,More than 60 days,4/1/2021 12:00:00 AM,177,35300,0,41,0.456195578,66,107283.91
+Bebe Tallent,8/17/2021,Personal,Travel,Reassess,Adriena Bennett,Yes,Yearly,Yes,R0127,None,A,More than 60 days,4/1/2021 12:00:00 AM,138,124800,15,58,0.487438618,62,175388.95
+Haydon Zaple,7/30/2021,Personal,Vision,Renewed,Adriena Bennett,Yes,Quarterly,No,R1748,10 Percent,A,More than 60 days,4/1/2021 12:00:00 AM,120,39400,0,38,0.419245001,42,4087.34
+Thaxter Sare,7/16/2021,Vehicle,RV,Reassess,Adriena Bennett,Yes,Quarterly,No,R0691,5 Percent,D,More than 60 days,4/1/2021 12:00:00 AM,106,173500,0,7,0.112249134,31,187082.33
+Stanislaus Pionter,9/12/2021,Vehicle,Motorcycle,Reassess,Adriena Bennett,Yes,Never,Yes,R1080,None,A,More than 60 days,4/1/2021 12:00:00 AM,164,56800,10,11,0.011127595,45,31968.41
+Babita Cordle,6/17/2021,Personal,Identity Theft Protection,Reassess,Adriena Bennett,Yes,Quarterly,No,R0909,None,B,More than 60 days,4/1/2021 12:00:00 AM,77,125900,0,54,0.800911426,67,147227.18
+Brigida Succamore,7/22/2021,Vehicle,Classic Car,Enroll,Adriena Bennett,Yes,Quarterly,No,R0688,5 Percent,C,More than 60 days,4/1/2021 12:00:00 AM,112,94700,0,9,0.764661276,71,99644.59
+Denny MacNelly,5/9/2021,Property,Homeowners,Expiring,Adriena Bennett,Yes,Monthly,Yes,R1190,5 Percent,D,Next 30-60 days,4/1/2021 12:00:00 AM,38,47800,0,43,0.064399598,26,101244.68
+Brande Dunkerley,7/12/2021,Vehicle,PWC,Reassess,Adriena Bennett,Yes,Never,No,R1555,None,D,More than 60 days,4/1/2021 12:00:00 AM,102,57700,0,32,0.476017666,48,49318
+Nell Quadling,9/9/2021,Property,Homeowners,Reassess,Adriena Bennett,Yes,Yearly,No,R1138,None,C,More than 60 days,4/1/2021 12:00:00 AM,161,104800,13,15,0.985244625,53,166238.97
+Leyla Ritson,11/2/2021,Personal,Travel,Renewed,Adriena Bennett,Yes,Yearly,No,R1215,10 Percent,C,More than 60 days,4/1/2021 12:00:00 AM,215,188800,5,9,0.728086559,41,15379.77
+Free Pohls,4/30/2021,Property,Renter,Renewed,Adriena Bennett,Yes,Yearly,Yes,R0779,10 Percent,A,Next 15-30 days,4/1/2021 12:00:00 AM,29,34500,0,56,0.328226017,66,71981.74
+Portie Hurche,8/25/2021,Property,Home Warranty,Renewed,Adriena Bennett,No,Weekly,No,R0395,None,D,More than 60 days,4/1/2021 12:00:00 AM,146,46200,14,58,0.146807366,25,180277.85
+Mitzi Smithend,7/13/2021,Personal,Life,Reassess,Adriena Bennett,No,Monthly,No,R1109,None,D,More than 60 days,4/1/2021 12:00:00 AM,103,168700,0,57,0.137428624,48,45913
+Eleonora Kochlin,4/13/2021,Property,Homeowners,Reassess,Adriena Bennett,No,Yearly,Yes,R0089,5 Percent,D,Next 5-15 days,4/1/2021 12:00:00 AM,12,164200,0,39,0.194529884,61,55396.85
+Maiga Armfield,8/27/2021,Business,Professional Liability,Renewed,Adriena Bennett,No,Yearly,No,R0370,10 Percent,C,More than 60 days,4/1/2021 12:00:00 AM,148,176300,0,24,0.915545671,34,20662.35
+Marlon Toynbee,11/3/2021,Property,Condo,Renewed,Adriena Bennett,No,Monthly,Yes,R1599,10 Percent,D,More than 60 days,4/1/2021 12:00:00 AM,216,172900,1,39,0.937178374,41,33419.98
+Ailey Trillow,6/28/2021,Personal,Device,Renewed,Adriena Bennett,No,Quarterly,No,R0829,10 Percent,B,More than 60 days,4/1/2021 12:00:00 AM,88,125100,0,21,0.520038696,57,130053.14
+Timmy McKmurrie,4/4/2021,Property,Renter,Expiring,Adriena Bennett,Yes,Weekly,No,R1542,5 Percent,B,Next 5 days,4/1/2021 12:00:00 AM,3,23800,0,59,0.646763176,70,47732.59
+Ignazio Glasscoe,9/18/2021,Property,Home Security,Enroll,Adriena Bennett,Yes,Quarterly,No,R0474,None,D,More than 60 days,4/1/2021 12:00:00 AM,170,158400,10,5,0.284195830,60,152368.3
+Jayson Clubley,11/23/2021,Personal,Pet,Renewed,Adriena Bennett,No,Monthly,No,R0158,None,A,More than 60 days,4/1/2021 12:00:00 AM,236,78900,4,44,0.645358737,45,49383.37
+Cletus Ranvoise,11/14/2021,Vehicle,Motorcycle,Reassess,Adriena Bennett,No,Weekly,No,R1269,None,A,More than 60 days,4/1/2021 12:00:00 AM,227,45100,10,40,0.128942908,63,50657.96
+Nollie Meddick,11/11/2021,Vehicle,Classic Car,Reassess,Adriena Bennett,Yes,Quarterly,Yes,R0533,5 Percent,D,More than 60 days,4/1/2021 12:00:00 AM,224,168700,10,49,0.303613324,58,117336.72
+Harlan Couper,8/28/2021,Business,General Liability,Renewed,Adriena Bennett,No,Monthly,Yes,R0169,None,C,More than 60 days,4/1/2021 12:00:00 AM,149,98600,0,31,0.405563475,39,183892
+Brnaby Picard,8/28/2021,Vehicle,RV,Renewed,Adriena Bennett,Yes,Never,No,R0647,None,E,More than 60 days,4/1/2021 12:00:00 AM,149,82900,1,12,0.860693274,77,5473.89
+Cally Bohlsen,8/22/2021,Vehicle,Snowmobile,Renewed,Adriena Bennett,No,Monthly,Yes,R0106,None,C,More than 60 days,4/1/2021 12:00:00 AM,143,86400,13,12,0.032937841,25,50134.52
+Peri Whisby,11/9/2021,Vehicle,Auto,Expiring,Adriena Bennett,No,Quarterly,No,R0393,5 Percent,C,More than 60 days,4/1/2021 12:00:00 AM,222,123400,14,39,0.385662305,44,70355.84
+Meridel Ianniello,12/30/2021,Personal,Dental,Renewed,Adriena Bennett,Yes,Monthly,No,R1609,None,B,More than 60 days,4/1/2021 12:00:00 AM,273,166900,13,46,0.850779639,30,177231
+Gabriella Drabble,4/4/2021,Vehicle,Motorcycle,Expiring,Adriena Bennett,No,Yearly,Yes,R0839,5 Percent,A,Next 5 days,4/1/2021 12:00:00 AM,3,108500,0,37,0.156659862,79,92698.91
+Georgi Prettyjohns,9/11/2021,Vehicle,Snowmobile,Reassess,Adriena Bennett,No,Never,No,R1090,None,D,More than 60 days,4/1/2021 12:00:00 AM,163,112600,9,26,0.677008450,23,96703.01
+Granthem Sickling,5/2/2021,Business,Business Owners Policy,Renewed,Adriena Bennett,Yes,Yearly,No,R1175,None,C,Next 30-60 days,4/1/2021 12:00:00 AM,31,93500,0,38,0.611071998,39,182697.94
+Muffin Darley,9/7/2021,Personal,Health,Reassess,Adriena Bennett,Yes,Quarterly,Yes,R1424,5 Percent,C,More than 60 days,4/1/2021 12:00:00 AM,159,111100,13,7,0.210014057,51,104662.13
+Hank Patillo,5/16/2021,Vehicle,Snowmobile,Reassess,Adriena Bennett,Yes,Yearly,No,R0673,None,C,Next 30-60 days,4/1/2021 12:00:00 AM,45,37600,0,12,0.360297211,26,81059.11
+Ebeneser Vinton,9/30/2021,Vehicle,Auto,Renewed,Adriena Bennett,Yes,Quarterly,No,R0306,None,D,More than 60 days,4/1/2021 12:00:00 AM,182,63900,2,49,0.657977216,65,35316.3
+Ginnifer Belcham,6/8/2021,Business,Business Owners Policy,Expiring,Adriena Bennett,Yes,Quarterly,Yes,R0026,10 Percent,D,More than 60 days,4/1/2021 12:00:00 AM,68,90200,0,17,0.490423826,25,33756.25
+Tyne Leworthy,4/19/2021,Vehicle,PWC,Enroll,Adriena Bennett,Yes,Quarterly,Yes,R1232,15 Percent,B,Next 15-30 days,4/1/2021 12:00:00 AM,18,164100,0,4,0.505991435,20,48830.58
+Anya Carding,6/19/2021,Vehicle,ATV,Reassess,Adriena Bennett,Yes,Quarterly,No,R1822,None,E,More than 60 days,4/1/2021 12:00:00 AM,79,110500,0,29,0.337379192,34,55180.38
+Binny Ollerton,4/19/2021,Property,Home Warranty,Enroll,Adriena Bennett,Yes,Monthly,No,R1975,None,B,Next 15-30 days,4/1/2021 12:00:00 AM,18,110400,0,16,0.712945637,68,78510.67
+Valina Gebuhr,5/14/2021,Property,Renter,Reassess,Adriena Bennett,No,Monthly,No,R1616,None,C,Next 30-60 days,4/1/2021 12:00:00 AM,43,153800,0,43,0.629364530,44,117830.09
+Zacherie Dovey,10/23/2021,Vehicle,Auto,Enroll,Adriena Bennett,No,Yearly,No,R0144,5 Percent,A,More than 60 days,4/1/2021 12:00:00 AM,205,144900,11,24,0.184225215,25,177496.31
+Blaire Kielt,11/12/2021,Vehicle,Auto,Reassess,Adriena Bennett,No,Yearly,No,R1917,None,C,More than 60 days,4/1/2021 12:00:00 AM,225,167600,6,53,0.858820443,20,130629.34
+Drusilla Test,5/31/2021,Personal,Pet,Renewed,Adriena Bennett,Yes,Quarterly,Yes,R1221,None,C,Next 30-60 days,4/1/2021 12:00:00 AM,60,18500,0,55,0.288360643,40,101509.77
+Sinclair Dorbin,4/30/2021,Personal,Device,Renewed,Adriena Bennett,Yes,Yearly,No,R0095,5 Percent,D,Next 15-30 days,4/1/2021 12:00:00 AM,29,17500,0,4,0.591496058,63,50827.38
+Wainwright Rosone,7/17/2021,Personal,Health,Reassess,Adriena Bennett,Yes,Quarterly,Yes,R0015,None,D,More than 60 days,4/1/2021 12:00:00 AM,107,166200,0,7,0.237644770,59,46208.35
+Edgardo Oldmeadow,7/6/2021,Personal,Life,Expiring,Adriena Bennett,No,Yearly,No,R0697,None,C,More than 60 days,4/1/2021 12:00:00 AM,96,2400,0,11,0.760650878,46,5738.09
+Coletta Ortsmann,9/3/2021,Property,Condo,Expiring,Adriena Bennett,Yes,Yearly,Yes,R1418,None,C,More than 60 days,4/1/2021 12:00:00 AM,155,170000,12,53,0.730907172,73,17994.67
+Keith Forbes,8/17/2021,Property,Flood,Reassess,Adriena Bennett,Yes,Weekly,No,R0628,None,A,More than 60 days,4/1/2021 12:00:00 AM,138,95000,1,56,0.407110695,59,22167.72
+Tim Matthaus,11/12/2021,Vehicle,RV,Reassess,Adriena Bennett,Yes,Quarterly,Yes,R1448,10 Percent,A,More than 60 days,4/1/2021 12:00:00 AM,225,162200,14,49,0.076380615,29,2870.35
+Zitella Potteridge,12/1/2021,Vehicle,RV,Renewed,Adriena Bennett,Yes,Quarterly,Yes,R1274,None,A,More than 60 days,4/1/2021 12:00:00 AM,244,30900,13,20,0.920957174,39,72989.58
+Yardley Keunemann,5/19/2021,Vehicle,PWC,Reassess,Adriena Bennett,Yes,Never,Yes,R1708,None,D,Next 30-60 days,4/1/2021 12:00:00 AM,48,127000,0,36,0.582519116,46,30503.43
+Othello Brosi,6/1/2021,Property,Flood,Renewed,Adriena Bennett,Yes,Never,Yes,R0550,None,D,More than 60 days,4/1/2021 12:00:00 AM,61,157000,0,16,0.587154305,61,164698.52
+Babs Musk,11/25/2021,Business,Workers' Compensation,Renewed,Adriena Bennett,Yes,Quarterly,No,R0454,10 Percent,D,More than 60 days,4/1/2021 12:00:00 AM,238,112600,0,7,0.080248731,73,157347.23
+Sullivan de Courcey,11/16/2021,Vehicle,Golf Cart,Reassess,Adriena Bennett,Yes,Quarterly,No,R1370,None,B,More than 60 days,4/1/2021 12:00:00 AM,229,52600,11,29,0.504223753,53,167246.11
+Darcy Farre,11/11/2021,Personal,Travel,Reassess,Adriena Bennett,Yes,Never,Yes,R1594,None,A,More than 60 days,4/1/2021 12:00:00 AM,224,27100,11,38,0.484200009,23,30491.85
+Waiter Hastie,6/16/2021,Business,Professional Liability,Reassess,Adriena Bennett,Yes,Yearly,Yes,R1062,None,D,More than 60 days,4/1/2021 12:00:00 AM,76,37400,0,7,0.246671490,70,58697.23
+Murvyn McDonnell,7/28/2021,Personal,Health,Renewed,Adriena Bennett,Yes,Quarterly,No,R1882,None,C,More than 60 days,4/1/2021 12:00:00 AM,118,110300,0,23,0.332300805,37,122223.95
+Aleksandr Habard,4/3/2021,Vehicle,PWC,Expiring,Adriena Bennett,Yes,Never,No,R1302,5 Percent,D,Next 5 days,4/1/2021 12:00:00 AM,2,44100,0,40,0.640920160,30,90093.68
+Caitlin Willacot,4/7/2021,Personal,Dental,Expiring,Adriena Bennett,Yes,Quarterly,No,R0242,5 Percent,B,Next 5-15 days,4/1/2021 12:00:00 AM,6,8700,0,30,0.289634238,54,45050.77
+Kit Bogays,11/8/2021,Personal,Travel,Expiring,Adriena Bennett,Yes,Monthly,No,R1844,15 Percent,A,More than 60 days,4/1/2021 12:00:00 AM,221,130700,3,10,0.444233542,49,38814.66
+Madlin Matous,6/9/2021,Personal,Travel,Expiring,Adriena Bennett,Yes,Monthly,No,R0578,None,C,More than 60 days,4/1/2021 12:00:00 AM,69,134300,0,33,0.305226859,52,33326.23
+Archie Assard,11/19/2021,Property,Renter,Enroll,Adriena Bennett,Yes,Quarterly,No,R0048,None,D,More than 60 days,4/1/2021 12:00:00 AM,232,70100,15,41,0.842967573,40,63865.06
+Daveta Tenniswood,8/4/2021,Vehicle,Motorcycle,Renewed,Adriena Bennett,Yes,Monthly,Yes,R1638,5 Percent,D,More than 60 days,4/1/2021 12:00:00 AM,125,39300,0,27,0.982120194,24,181452.69
+Allie Steward,9/11/2021,Vehicle,Classic Car,Reassess,Adriena Bennett,Yes,Never,No,R1254,None,D,More than 60 days,4/1/2021 12:00:00 AM,163,9200,7,11,0.331959283,38,17515.27
